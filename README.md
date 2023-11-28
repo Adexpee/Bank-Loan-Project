@@ -124,6 +124,9 @@ Scheduled data refresh is set up to keep the report up-to-date.
 
 Regular monitoring of usage and user feedback is incorporated for continuous improvement.
 
+Here's the link to the project on  power bi service : 
+[click here](https://app.powerbi.com/reportEmbed?reportId=5c9b1232-2587-4b87-9a12-23879cee1a5b&autoAuth=true&ctid=6f2a7eb7-1c5c-4dd4-b851-2a796a9cbe97)
+
 ### 8. Conclusion
 
 The Bank Loan Portfolio Analysis project on Power BI empowers stakeholders with actionable insights, fostering data-driven decision-making in loan management and risk assessment. The project's flexibility and user-friendly design facilitate a seamless exploration of the bank's loan portfolio.
